@@ -1,2 +1,2 @@
-# BlogEmReact
-Desenvolvendo um Blog usando React e Next.js 
+# DashboardPyton
+Desenvolvendo uma DashBoard em Python
